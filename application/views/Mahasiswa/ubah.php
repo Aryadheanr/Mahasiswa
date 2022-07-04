@@ -1,3 +1,19 @@
+<style type="text/css">
+.hero{
+    background-image: url('assets/img/kel4.jpg');
+    background-size: cover;
+    background-position: center center;
+    min-height: 100%;
+    min-width: 100%;
+    width: auto;
+    height: auto;
+    margin: 0;
+    position: absolute;
+}
+
+</style>
+
+<section class="hero">
 <div class="container">
 
     <div class="row mt-3">
@@ -49,3 +65,4 @@
     </div>
 
 </div>
+</section>

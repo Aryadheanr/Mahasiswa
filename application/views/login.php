@@ -23,7 +23,7 @@
                        Welcome
                                 </p>
                                 <div class="mt-4">
-                                <form action="<?= base_url();?>Mahasiswa" method="post">
+                                <form action="<?= base_url();?>Home" method="post">
                                 
                                         <div class="form-group">
                                             <input type="text" class="form-control" name="username" value="" placeholder="Masukan username" required>
@@ -35,7 +35,7 @@
                                         <button type="submit" class="btn btn-primary float-right">Login</button>
                                     </form>
                                     <div class="clearfix"></div>
-                                    <p class="content-divider center mt-4"><span>or</span></p>
+                                  
                                 </div>
                                
                               
